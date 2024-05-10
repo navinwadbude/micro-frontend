@@ -10,7 +10,7 @@ return(
   <div className="mt-10 text-3xl mx-auto max-w-6xl">
     <Header />
     <div className="my-10">
-      Home Body Container
+      Home Body Containers
     </div>
     <Footer />
   </div>
